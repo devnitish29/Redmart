@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Redmart</string>
+    <string name="label_abt_prodt">About the Product</string>
+    <string name="trans_name">transition</string>
+
+</resources>
